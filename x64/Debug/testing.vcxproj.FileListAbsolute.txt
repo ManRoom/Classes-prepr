@@ -1,0 +1,2 @@
+C:\Users\purpl\source\repos\testing\x64\Debug\testing.exe
+C:\Users\purpl\source\repos\testing\x64\Debug\testing.pdb
